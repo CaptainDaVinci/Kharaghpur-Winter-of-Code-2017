@@ -33,6 +33,6 @@ This was another project which used _pygame_ to replicate the classic _Snake_ ga
 
 ## Summary
 
-Kharaghpur Winter of Code was a wonderful experience, I would like to thank [Raghav Jajodia](https://github.com/jajodiaraghav) and [Aniq Ur Rahman](https://github.com/Aniq55) the mentors for the projects, it was great working with them. In total, I made 19 pull requests out of which 17 were closed. I would have loved to contribute more to these projects and many more but had my semester exams during that period. All 
+Kharaghpur Winter of Code was a wonderful experience, I would like to thank [Raghav Jajodia](https://github.com/jajodiaraghav) and [Aniq Ur Rahman](https://github.com/Aniq55) the mentors for the projects, it was great working with them. In total, I made 19 pull requests out of which 17 were closed. I would have loved to contribute more to these projects and many more but had my semester exams during that period. 
 
-in all I think KWoC, is an excellent way for a novice to get started in open source projects.
+All in all I think KWoC, is an excellent way for a novice to get started in open source projects.
